@@ -18,7 +18,7 @@ This Weather Tracker App allows users to check the current weather conditions fo
 4. The app will display the current weather conditions for the specified city.
 
 ## Link to video explaining how this app works
-https://www.loom.com/share/b797ab8b82b14c0b86a1af83c7c381ae?sid=e5e08671-f91a-44e6-aa29-14455906a5bd
+https://www.loom.com/share/7d892f44094c4ecab0f7fdee372dfe01?sid=976f6e0d-8242-4b2f-aacd-3b147b4588a8
 
 
 ## Acknowledgments
