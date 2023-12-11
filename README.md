@@ -17,6 +17,10 @@ This Weather Tracker App allows users to check the current weather conditions fo
 3. Click the "Search" button.
 4. The app will display the current weather conditions for the specified city.
 
+## Link to video explaining how this app works
+https://www.loom.com/share/b797ab8b82b14c0b86a1af83c7c381ae?sid=e5e08671-f91a-44e6-aa29-14455906a5bd
+
+
 ## Acknowledgments
 
 - Weather data is provided by [OpenWeather](https://openweathermap.org/).
